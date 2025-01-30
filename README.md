@@ -1,7 +1,7 @@
 ### Olá!
 
-#### Sou Analista de Dados, formado em Administração e apaixonado por tecnologia.
-###### Tenho 5 anos de experiência na área de gestão financeira, onde transformei dados em insights valiosos para a tomada de decisão nas empresas. Atualmente, estou em transição de carreira e me especializando em Análise de Dados pela EBAC. 
+### Sou Analista de Dados, formado em Administração e apaixonado por tecnologia.
+#### Tenho 5 anos de experiência na área de gestão financeira, onde transformei dados em insights valiosos para a tomada de decisão nas empresas. Atualmente, estou em transição de carreira e me especializando em Análise de Dados pela EBAC. 
 
 
 ### Detalhes
@@ -10,11 +10,11 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=consumodecerveja-ebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=consumodecerveja-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=logisticaloggi-ebac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=logisticaloggi-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
