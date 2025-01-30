@@ -6,20 +6,20 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucascv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucascv&show_icons=true&theme=dark)](https://github.com/joaolucascv/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac&theme=dark)](https://github.com/joaolucascv/coviddashboard-ebac)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=consumodecerveja-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=consumodecerveja-ebac&theme=dark)](https://github.com/joaolucascv/consumodecerveja-ebac)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=logisticaloggi-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=logisticaloggi-ebac&theme=dark)](https://github.com/joaolucascv/logisticaloggi-ebac)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucascv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucascv&layout=compact)](https://github.com/joaolucascv/github-readme-stats)
 
 ### Contatos
 
