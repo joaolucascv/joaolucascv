@@ -10,7 +10,7 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac&theme=dark)](https://github.com/joaolucascv/coviddashboard-ebac
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=coviddashboard-ebac&theme=dark)](https://github.com/joaolucascv/coviddashboard-ebac)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaolucascv&repo=sqlcredito-ebac&theme=dark)](https://github.com/joaolucascv/sqlcredito-ebac)
 
