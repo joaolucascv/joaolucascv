@@ -1,8 +1,7 @@
 ### Olá!
 
 ### Sou Analista de Dados, formado em Administração e apaixonado por tecnologia.
-#### Tenho 5 anos de experiência na área de gestão financeira, onde transformei dados em insights valiosos para a tomada de decisão nas empresas. Atualmente, estou em transição de carreira e me especializando em Análise de Dados pela EBAC. 
-
+#### Com 5 anos de experiência na área de gestão financeira, adquiri expertise em transformar dados complexos em insights estratégicos, contribuindo para a tomada de decisões assertivas e o crescimento sustentável das empresas.
 
 ### Detalhes
 
